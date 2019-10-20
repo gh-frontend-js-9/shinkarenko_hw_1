@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.header {
+  text-align: center;
+}
+.introduction-example {
+  text-align: center;
+}
+
+.first{
+  font-style: italic;
+  font-weight: bold;
+  float: right;
+  width: 340px;
+}
+.cis-2_img{
+    display: block;
+    margin: 0 auto;
+}
+.cis-2_text{
+    text-align: right;
+}
